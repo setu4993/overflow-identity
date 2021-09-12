@@ -2,7 +2,7 @@
     base = "/"
 
 [[redirects]]
-    from = "*"
+    from = "index.html"
     to = "example.html"
     status = 301
     force = true
