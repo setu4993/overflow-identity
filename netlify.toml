@@ -6,3 +6,9 @@
     to = "example.html"
     status = 301
     force = true
+
+[[redirects]]
+    from = "/"
+    to = "example.html"
+    status = 301
+    force = true
